@@ -4,3 +4,4 @@ git section for clean code chapter
 #### git add
 #### git commit
 #### git push
+#### git pull 
